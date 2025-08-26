@@ -1,0 +1,36 @@
+﻿Z '_Zoom
+ZE '_Zoom _Extents
+ZT '_Zoom _Target
+ZEA '_Zoom _All _Extents
+ZS '_Zoom _Selected
+ZSA '_Zoom _All _Selected
+S '_Snap
+O '_Ortho
+P '_Planar
+M ! _Move
+U _Undo
+POn ! _PointsOn
+POff ! _PointsOff
+CR '_SelCrossing
+W '_SelWindow
+COn '_CurvatureGraph
+COff '_CurvatureGraphOff
+PlugInManager ! _OptionsPage _PlugIns
+AdvancedDisplay ! _OptionsPage _DisplayModes
+DisplayAttrsMgr ! _OptionsPage _DisplayModes
+Break ! _DeleteSubCrv
+SelPolysurface '_SelPolysrf
+D '_Delete
+Se '_Select
+EC ! _Extrudecrv
+ES ! _Extrudesrf
+C ! _Copy
+R ! _Rotate
+DS ! _Distance
+AC ! _EnableClippingPlane
+DC ! _DisableClippingPlane
+2D ! _Make2D
+SC ! _Scale
+BD ! _BooleanDifference
+BU ! _BooleanUnion
+GR ! _Group
